@@ -1,0 +1,13 @@
+
+<class>
+    <vouchers>
+        <voucher type = "relaxation" name = "RedSea" price = "1000" transport = "plane" days = "5" mealCounter = "3" place = "2"/>
+        <voucher type = "relaxation" name = "Mountains" price = "2000" transport = "train" days = "7" mealCounter = "2" place = "3"/>
+        <voucher type = "relaxation" name = "Sahara" price = "1000" transport = "plane" days = "5" mealCounter = "3" place = "4"/>
+        <voucher type = "treatment" name = "BlackSea" price = "700" transport = "train" days = "14" mealCounter = "1" place = "3"/>
+        <voucher type = "extreme" name = "Vulcan" price = "5000" transport = "helicopter" days = "2" mealCounter = "3" place = "3"/>
+        <voucher type = "excursion" name = "Berlin" price = "3000" transport = "bus" days = "3" mealCounter = "4" place = "10"/>
+        <voucher type = "shopping"  name = "Wroclaw" price = "300" transport = "bus" days = "2" mealCounter = "2" place = "3"/>
+        <voucher type = "cruise" name = "Bali" price = "3000" transport = "plane" days = "7" mealCounter = "3" place = "7"/>
+    </vouchers>
+</class>
