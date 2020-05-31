@@ -1,0 +1,89 @@
+table {
+
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px #5c7893;
+}
+
+thead th:nth-child(1) {
+    width: 30%;
+}
+
+thead th:nth-child(2) {
+    width: 20%;
+}
+
+thead th:nth-child(3) {
+    width: 30%;
+}
+
+thead th:nth-child(4) {
+    width: 20%;
+}
+
+th, td {
+    padding: 20px;
+}
+html {
+    color: white;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+thead th, tfoot th {
+    color: white;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+th {
+    letter-spacing: 2px;
+}
+
+td {
+    letter-spacing: 2px;
+}
+
+tbody td {
+    text-align: center;
+
+}
+
+tfoot th {
+    text-align: right;
+
+}
+thead, tfoot {
+
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+thead th, tfoot th, tfoot td {
+    background: linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.3));
+    border: 3px #97b7d9;
+
+}
+tbody tr:nth-child(odd) {
+    background-color: #613077;
+    opacity: 0.7;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #563964;
+    opacity: 0.4;
+}
+
+
+table {
+
+
+}
+caption {
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    padding: 20px;
+    font-style: italic;
+    caption-side: bottom;
+    color: #666;
+    text-align: right;
+    letter-spacing: 1px;
+}

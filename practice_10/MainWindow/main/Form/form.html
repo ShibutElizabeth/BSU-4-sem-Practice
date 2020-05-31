@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Task A</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="formStyle.css">
+	</head>
+	<body>
+		<form>
+			<div>
+				<label>Name</label>
+				<input type="text" required placeholder="Enter name" name="name">
+
+			</div>
+			<div>
+				<label>Surname</label>
+				<input type="text" required placeholder="Enter surname" name="surname">
+			</div>
+			<div>
+				<label>Department</label>
+				<select name="department">
+					<option value="BMI">BIOMEDICAL INFORMATICS</option>
+					<option value="MSN">MULTI-PROCESSOR SYSTEMS AND NETWORKS</option>
+					<option value="DMA">DISCRETE MATHEMATICS AND ALGORITHMS</option>
+					<option value="CTS">COMPUTER TECHNOLOGIES AND SYSTEMS</option>
+					<option value="IMS">INFORMATION MANAGEMENT SYSTEMS</option>
+				</select>
+			</div>
+			<div>
+				<label>Favorite subjects</label>
+				<ul>
+					<li><label><input type="checkbox"  name="subjects"  value="math">Math</label></li>
+					<li><label><input type="checkbox" name="subjects" value="programming">Programming</label></li>
+					<li><label><input type="checkbox"  name="subjects" value="computer science">Computer Science</label></li>
+				</ul>
+			</div>
+			<div>
+				<label >Form of training</label>
+				<ul>
+					<li><label><input name="form" type="radio" disabled="disabled" value="full">Full-time</label></li>
+					<li><label><input name="form" type="radio" value="distance">Distance</label></li>
+				</ul>
+			</div>
+			<div>
+				<label>E-mail</label>
+				<input type="email" name="email" required>
+			</div>
+			<div>
+				<label>Choose file</label>
+				<input type="file" multiple accept="image/*,image/jpeg">
+			</div>
+			<div>
+				<label>All you want to say</label>
+				<textarea name="text" required></textarea>
+			</div>
+			<div>
+				<button type="submit">OK</button>
+				<button type="reset">CANCEL</button>
+			</div>
+		</form>
+	</body>
+</html>
