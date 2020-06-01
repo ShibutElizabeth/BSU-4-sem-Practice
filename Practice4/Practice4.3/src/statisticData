@@ -1,0 +1,38 @@
+[
+  {
+    "brand": "MAC",
+    "count": 580
+  },
+  {
+    "brand": "L'Oreal",
+    "count": 500
+  },
+  {
+    "brand": "Chanel",
+    "count": 450
+  },
+  {
+    "brand": "NYX",
+    "count": 430
+  },
+  {
+    "brand": "Meybelline",
+    "count": 380
+  },
+  {
+    "brand": "Estee Lauder",
+    "count": 355
+  },
+  {
+    "brand": "Lancome",
+    "count": 290
+  },
+  {
+    "brand": "Dior",
+    "count": 270
+  },
+  {
+    "brand": "Photoshop",
+    "count": 5000
+  }
+]
