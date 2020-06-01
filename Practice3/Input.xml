@@ -1,0 +1,13 @@
+<class>
+    <countries>
+        <country name ="Estonia" capital ="Tallinn"/>
+        <country name ="Belarus" capital ="Minsk"/>
+        <country name ="Canada" capital ="Vancouver"/>
+        <country name ="Norway" capital ="Oslo"/>
+        <country name ="Egypt" capital ="Cairo"/>
+        <country name ="France" capital ="Paris"/>
+        <country name ="Germany" capital ="Berlin"/>
+        <country name ="Latvia" capital ="Riga"/>
+        <country name ="Lithuania" capital ="Vilnius"/>
+    </countries>
+</class>
