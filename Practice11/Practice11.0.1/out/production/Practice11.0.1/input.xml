@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<class>
+    <planets>
+        <planet name = "Earth">
+            <mass>5.97</mass>
+            <diameter>12756.0</diameter>
+            <count>1</count>
+            <ans>NO</ans>
+        </planet>
+        <planet name="Venus">
+            <mass>4.87</mass>
+            <diameter>12104.0</diameter>
+            <count>0</count>
+            <ans>NO</ans>
+        </planet>
+    </planets>
+</class>

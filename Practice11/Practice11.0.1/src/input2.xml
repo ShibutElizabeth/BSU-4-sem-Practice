@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<planets>
+<planet name="Earth">
+<mass>5.97</mass>
+<diameter>12756.0</diameter>
+<count>1</count>
+<ans>NO</ans>
+</planet>
+<planet name="Venus">
+<mass>4.87</mass>
+<diameter>12104.0</diameter>
+<count>0</count>
+<ans>NO</ans>
+</planet>
+<planet name="K4">
+<mass>3333.0</mass>
+<diameter>1349434.0</diameter>
+<count>65</count>
+<ans>YES</ans>
+</planet>
+</planets>

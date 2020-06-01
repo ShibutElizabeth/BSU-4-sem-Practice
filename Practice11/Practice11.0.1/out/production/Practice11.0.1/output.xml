@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<planets>
+    <planet name="Jupiter">
+        <mass>1899</mass>
+        <diameter>142984</diameter>
+        <count>63</count>
+        <ans>YES</ans>
+    </planet>
+    <planet name="Saturn">
+        <mass>568</mass>
+        <diameter>120536</diameter>
+        <count>47</count>
+        <ans>Yes</ans>
+    </planet>
+    <planet name="Mars">
+        <mass>0.642</mass>
+        <diameter>6794</diameter>
+        <count>2</count>
+        <ans>NO</ans>
+    </planet>
+</planets>
